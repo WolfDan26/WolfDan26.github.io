@@ -1,0 +1,19 @@
+.fade {
+    opacity: 0;
+
+}
+
+
+.spacer {
+    height: 20px;
+}
+
+
+.max{
+    max-width: 40px;
+}
+
+.bg {
+    background-image: url('/Users/dang/Documents/img/Flamies.png');
+    background-repeat: no-repeat;
+}
