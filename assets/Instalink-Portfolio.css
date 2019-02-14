@@ -1,0 +1,20 @@
+.fade {
+    opacity: 0;
+
+}
+
+
+.spacer {
+    height: 20px;
+}
+
+
+.max{
+    max-width: 40px;
+}
+
+.bg {
+    background-image: url('/assets/flamehorizon.jpg');
+    background-repeat: no-repeat;
+    background-color: black;
+}
